@@ -13,7 +13,7 @@ needed).
  - The closest to 21 wins!
 ## Installation & Running the Game
 1. Clone the repository:
- git clone https://github.com/your-username/blackjack-cli.git
+ git clone https://github.com/Im-Satyam-ds/blackjack-cli.git
 2. Navigate to the folder:
  cd blackjack-cli
 3. Run the script:
